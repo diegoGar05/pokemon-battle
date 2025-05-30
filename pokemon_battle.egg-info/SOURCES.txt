@@ -1,0 +1,13 @@
+README.md
+setup.py
+pokemon_battle/__init__.py
+pokemon_battle/battle.py
+pokemon_battle/cli.py
+pokemon_battle/manager.py
+pokemon_battle/pokemon.py
+pokemon_battle.egg-info/PKG-INFO
+pokemon_battle.egg-info/SOURCES.txt
+pokemon_battle.egg-info/dependency_links.txt
+pokemon_battle.egg-info/entry_points.txt
+pokemon_battle.egg-info/requires.txt
+pokemon_battle.egg-info/top_level.txt

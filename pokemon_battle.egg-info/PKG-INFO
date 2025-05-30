@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: pokemon-battle
+Version: 0.2.0
+Summary: Sistema de batallas Pokémon con datos completos de la Pokédex
+Author: Diego Armando Garcia Castañeda
+Requires-Python: >=3.6
+Requires-Dist: pandas>=1.0.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
