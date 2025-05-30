@@ -23,7 +23,9 @@ Git (opcional, solo si clonas el repositorio)
 Configuración Inicial
 1. Clonar el Repositorio 
 git clone https://github.com/diegoGar05/pokemon-battle.git
+
 cd pokemon-battle
+
 2. Crear y Activar un Entorno Virtual en consola Powershell
 -  python -m venv venv
 -  .\venv\Scripts\Activate
